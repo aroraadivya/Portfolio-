@@ -24,3 +24,8 @@ body{
 ::before, ::after{
     box-sizing: border-box;
 }
+
+.aside{
+    width: 270px;
+    background: var(--bd-black-100);
+}
