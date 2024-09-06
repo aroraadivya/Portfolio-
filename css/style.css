@@ -22,6 +22,7 @@ body{
 ::before, ::after{
     box-sizing: border-box;
 }
+/* hset? */
 
 .section{
     background: var(--bg-black-900);
